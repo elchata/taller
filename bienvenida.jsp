@@ -1,3 +1,4 @@
+<html>
 <p>Desarrollar parte la capa de presentaci&oacute;n del sistema
 De acuerdo a la especificaci&oacute;n publicada del proyecto 'Sitio Web Multimedial para Alumnos
 de Inform&aacute;tica' y a la capa de persistencia realizada, se desea realizar parte de la capa de
@@ -14,3 +15,4 @@ puedan invocar estas operaciones.
 Para la interfaz de usuario usted puede respetar su prototipo validado por la c&aacute;tedra. A
 manera de ejemplo mostramos una posible disposici&oacute;n de los datos para quienes no lo han
 pensado a&uacute;n.</p>
+</html>
