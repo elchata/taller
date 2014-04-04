@@ -16,5 +16,5 @@ puedan invocar estas operaciones.
 Para la interfaz de usuario usted puede respetar su prototipo validado por la c&aacute;tedra. A
 manera de ejemplo mostramos una posible disposici&oacute;n de los datos para quienes no lo han
 pensado a&uacute;n.</p>
-<body>
+</body>
 </html>
